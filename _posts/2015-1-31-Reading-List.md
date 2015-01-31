@@ -19,7 +19,7 @@ title: 城市交通规划小组阅读书单
 **人性化的街道**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;扬 盖尔  
 **公共空间 公共生活**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;扬 盖尔  
 **公共交通运营，规划与经济**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;维奇克  
-**精明增长指南**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安德烈斯 杜安伊
+**精明增长指南**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安德烈斯 杜安伊  
 **美国大城市的死与生**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;简 雅各布斯   
 **城市的胜利**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;爱德华 格莱泽  
 **城记**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;王军  
