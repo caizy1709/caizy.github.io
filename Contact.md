@@ -15,4 +15,4 @@ Wechat:    <font color=#0099ff size=12 face="黑体">caizy1709</font>
 
 Github:    [https://github.com/caizy1709](https://github.com/caizy1709)
 
-![alt text](https://github.com/caizy1709/caizy.github.io/tree/master/images/contact.png")
+![alt text](https://github.com/caizy1709/caizy.github.io/tree/master/contact.png")
