@@ -13,4 +13,4 @@ Address: B818 Anzhong Building, 866 Yuhangtang Road, Hangzhou, China
 
 Wechat: caizy1709
 
-Github: https://github.com/caizy1709
+Github: github.com/caizy1709
