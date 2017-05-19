@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: post
 title: about
-permalink: /Welcome/
 ---
 
 ## Zhengyi Cai | 蔡正义
