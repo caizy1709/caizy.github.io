@@ -11,7 +11,7 @@ E-mail:    [caizhengyi@zju.edu.cn](mailto:caizhengyi@zju.edu.cn)
 
 Address:    B818 Anzhong Building, 866 Yuhangtang Road, Hangzhou, China
 
-Wechat:    caizy1709
+Wechat:    <font color=#0099ff size=12 face="黑体">caizy1709</font>
 
 Github:    [https://github.com/caizy1709](https://github.com/caizy1709)
 
