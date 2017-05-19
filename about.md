@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 
-邓一凌 (Yiling)
+蔡正义 (Zhengyi)
 
-交通运输工程专业博士，现就职于浙江工业大学建筑工程学院，目前研究兴趣包括：交通需求分析与建模、出行行为研究、步行与自行车环境研究等。
+交通运输工程专业博士生，就读于浙江大学建筑工程学院，目前研究兴趣包括：宏观路网评价、交通大数据、公交服务评价研究等。
 
 ### Contact me
 
-[coralseu@163.com](mailto:coralseu@163.com)
+[caizhengyi@zju.edu.cn](mailto:caizhengyi@zju.edu.cn)
