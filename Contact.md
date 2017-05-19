@@ -4,10 +4,8 @@ title: Contact
 permalink: /Contact/
 ---
 
-蔡正义 (Zhengyi Cai)
 
-
-### Contact me
+### Zhengyi Cai | 蔡正义
 
 E-mail:[caizhengyi@zju.edu.cn](mailto:caizhengyi@zju.edu.cn)
 
