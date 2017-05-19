@@ -1,13 +1,14 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Contact
+permalink: /Contact/
 ---
 
-蔡正义 (Zhengyi)
+蔡正义 (Zhengyi Cai)
 
-交通运输工程专业博士生，就读于浙江大学建筑工程学院，目前研究兴趣包括：宏观路网评价、交通大数据、公交服务评价研究等。
 
 ### Contact me
 
-[caizhengyi@zju.edu.cn](mailto:caizhengyi@zju.edu.cn)
+E-mail:[caizhengyi@zju.edu.cn](mailto:caizhengyi@zju.edu.cn)
+Address: B818 Anzhong Building, 866 Yuhangtang Road, Hangzhou, China
+Wechat: caizy1709
