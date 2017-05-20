@@ -23,7 +23,7 @@ Prior to my PhD studies, I received the Bachelor of Engineering degree (2013) in
 
 &emsp;&emsp;**·**&emsp;Concentration on traffic performance evalution and big data
 ##### Jilin University
-&emsp;&emsp;**·**&emsp;Bachelor of Engineering. Transportation Engineering.  Septemper 2009 - July 2013
+&emsp;&emsp;**·**&emsp;Bachelor of Engineering. Transportation Engineering.  September 2009 - July 2013
 
 &emsp;&emsp;**·**&emsp;Concentration on traffic control
 
