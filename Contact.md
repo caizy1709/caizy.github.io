@@ -15,4 +15,4 @@ Wechat:    caizy1709
 
 Github:    [https://github.com/caizy1709](https://github.com/caizy1709)
 
-![alt text](https://github.com/caizy1709/caizy.github.io/blob/master/contact.png "Transit Analyst")
+![QR code](/contact.png "Transit Analyst")
