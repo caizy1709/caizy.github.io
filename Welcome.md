@@ -6,7 +6,7 @@ permalink: /Welcome/
 
 ![QR code](/images/IMG.JPG "my photo")
 ## Zhengyi Cai | 蔡正义
-> ** PHD CANDIDATE,  TRANSPORTATION ENGINEERING** 
+> **PHD CANDIDATE,  TRANSPORTATION ENGINEERING** 
 
 > **Institute of Transportation Engineering, College of Civil Engineering and Architecture** 
 
