@@ -18,11 +18,11 @@ Prior to my PhD studies, I received a Bachelor of Engineering degree (2013) in t
 
 ##### Zhejiang University
 
-Ph.D student in Transportation Engineering.Septemper 2013 - now
+&emsp;&emsp;·Ph.D student in Transportation Engineering.Septemper 2013 - now
 
-Concentration on traffic performance evalution and big data
+&emsp;&emsp;·Concentration on traffic performance evalution and big data
 ##### Jilin University
-Bachelor of Engineering. Transportation Engineering.  Septemper 2009 - July 2013
+&emsp;&emsp;·Bachelor of Engineering. Transportation Engineering.  Septemper 2009 - July 2013
 
-Concentration on traffic control
+&emsp;&emsp;·Concentration on traffic control
 
