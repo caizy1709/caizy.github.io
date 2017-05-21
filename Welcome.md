@@ -4,12 +4,12 @@ title: about
 permalink: /Welcome/
 ---
 
-![QR code](/images/IMG.JPG "my photo")
+![QR code](/images/IMG.JPG "photo")
 
 ## Zhengyi Cai | 蔡正义
 ##### PHD CANDIDATE,  TRANSPORTATION ENGINEERING
-##### Institute of Transportation Engineering, College of Civil Engineering and Architecture
-##### Zhejiang University
+##### [Trffic Control Research Lab](http://tcrl.zju.edu.cn/), College of Civil Engineering and Architecture
+##### [Zhejiang University](http://www.zju.edu.cn/)
 
 E-mail: caizhengyi@zju.edu.cn 
 
@@ -23,7 +23,7 @@ Prior to my PhD studies, I received the Bachelor of Engineering degree (2013) in
 &emsp;&emsp;**·**&emsp;Ph.D student in Transportation Engineering.Septemper 2013 - now
 
 &emsp;&emsp;**·**&emsp;Concentration on traffic performance evalution and big data
-##### Jilin University
+##### [Jilin University](http://www.jlu.edu.cn/)
 &emsp;&emsp;**·**&emsp;Bachelor of Engineering. Transportation Engineering.  September 2009 - July 2013
 
 &emsp;&emsp;**·**&emsp;Concentration on traffic control
