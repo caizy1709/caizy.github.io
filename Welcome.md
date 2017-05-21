@@ -5,6 +5,7 @@ permalink: /Welcome/
 ---
 
 ![QR code](/images/IMG.JPG "photo")
+<img width="150" height="150" src="/images/IMG.JPG"/>
 
 ## Zhengyi Cai | 蔡正义
 ##### PHD CANDIDATE,  TRANSPORTATION ENGINEERING
