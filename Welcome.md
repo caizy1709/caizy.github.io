@@ -7,7 +7,7 @@ permalink: /Welcome/
 <img width="250" height="250" src="/images/IMG.JPG"/>
 
 ## Zhengyi Cai | 蔡正义
-##### PHD CANDIDATE,  TRANSPORTATION ENGINEERING
+##### Ph.D Candidate, Transportation Engineering
 ##### [Trffic Control Research Lab](http://tcrl.zju.edu.cn/), College of Civil Engineering and Architecture
 ##### [Zhejiang University](http://www.zju.edu.cn/)
 
@@ -20,7 +20,7 @@ Prior to my PhD studies, I received the Bachelor of Engineering degree (2013) in
 
 ##### Zhejiang University
 
-&emsp;&emsp;**·**&emsp;Ph.D student in Transportation Engineering.Septemper 2013 - now
+&emsp;&emsp;**·**&emsp;Ph.D student in Transportation Engineering.Septemper 2013 - Present
 
 &emsp;&emsp;**·**&emsp;Concentration on traffic performance evalution and big data
 ##### [Jilin University](http://www.jlu.edu.cn/)
