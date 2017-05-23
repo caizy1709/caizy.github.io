@@ -4,7 +4,8 @@ title: Projects
 permalink: /Projects/
 ---
 ### 中文版
-编号|  项目 | 项目来源  | 时间 
+
+编号  |  项目 | 项目来源  | 时间 
 ---|----|------|----
 1 | 青岛市北部片区交通仿真&nbsp;&nbsp;   | 青岛市公安局交警支队&nbsp;&nbsp;  | 2014.03-2014.07
 2 | 道路通行效率表征及评价技术研究&nbsp;&nbsp;  | 杭州市公安局交警支队&nbsp;&nbsp;  | 2014.08-2015.3
@@ -14,7 +15,8 @@ permalink: /Projects/
 6 | 时空资源配置导向的城市居民出行结构优化理论    | 国家自然基金项目&nbsp;&nbsp;|09/2013-12/2012
 
 ### English edition
-No.|  Project | Period |Sponsor  | Details
+
+No |  Project | Period | Sponsor  | Details
 ---|----|------|----|----
 1|Evolution mechanism, regulation and control methods of urban transportation supply and demand structure|  01/2014-Present|National Natural Science Foundation of China（51338008）|Worked with group to integrated control of urban transportation systems based on system dynamics
 2|A Novel trip coverage index for transit accessibility assessment using mobile phone data and on-line map service.	|03/2016-08/2016|Co-authored Paper with Prof.Xiqun Chen|Worked with prof. Xiqun Chen to estimate massive trips by using the mobile phone signaling data and design a new public transit quality of service measure considering the origin-destination (OD) pairs.
