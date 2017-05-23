@@ -12,7 +12,8 @@ No.|  Project | Sponsor  | Period
 5 | Evolution mechanism, regulation and control methods of urban transportation supply and demand structure    | NSFC&nbsp;&nbsp;|01/2014-Present
 6 | Theory of optimizing travel modes structure oriented by spatial and temporal resource allocation    | NSFC&nbsp;&nbsp;|09/2013-12/2012
 
-No.|  Project | Sponsor  | Period 
+No.|  Project | Period |Sponsor  | details
+---|----|------|----|----
 1|Evolution mechanism, regulation and control methods of urban transportation supply and demand structure|   	01/2014-Present|
 National Natural Science Foundation of China（51338008）|Worked with group to integrated control of urban transportation systems based on system dynamics
 2|A Novel trip coverage index for transit accessibility assessment using mobile phone data and on-line map service.	03/2016-08/2016|Co-authored Paper with Prof.Xiqun Chen|
