@@ -12,18 +12,17 @@ No.|  Project | Sponsor  | Period
 5 | Evolution mechanism, regulation and control methods of urban transportation supply and demand structure    | NSFC&nbsp;&nbsp;|01/2014-Present
 6 | Theory of optimizing travel modes structure oriented by spatial and temporal resource allocation    | NSFC&nbsp;&nbsp;|09/2013-12/2012
 
-1. Evolution mechanism, regulation and control methods of urban transportation supply and demand structure   	01/2014-Present
-National Natural Science Foundation of China（51338008）, Zhejiang University, Hangzhou, China
-Worked with group to integrated control of urban transportation systems based on system dynamics
-2. A Novel trip coverage index for transit accessibility assessment using mobile phone data and on-line map service.	03/2016-08/2016
-Co-authored Paper with Prof.Xiqun Chen
+No.|  Project | Sponsor  | Period 
+1|Evolution mechanism, regulation and control methods of urban transportation supply and demand structure|   	01/2014-Present|
+National Natural Science Foundation of China（51338008）|Worked with group to integrated control of urban transportation systems based on system dynamics
+2|A Novel trip coverage index for transit accessibility assessment using mobile phone data and on-line map service.	03/2016-08/2016|Co-authored Paper with Prof.Xiqun Chen|
 Worked with prof. Xiqun Chen to estimate massive trips by using the mobile phone signaling data and design a new public transit quality of service measure considering the origin-destination (OD) pairs.
-3.	Integrated operation evaluation of Hangzhou expressway.	07-12/2016
-Hangzhou Transportation Research Center
+3|Integrated operation evaluation of Hangzhou expressway.	07-12/2016|
+Hangzhou Transportation Research Center|
 Evaluated Traffic operation based on AVI data, studied the influencing factors of the efficiency of expressway network, and proposed the specific and effective measures and suggestions
-4.	Decision support system based on simulation for road network construction and management of Hangzhou. 	03/2015-06/2016
-Hangzhou Science and Technology Bureau
+4|Decision support system based on simulation for road network construction and management of Hangzhou. 	03/2015-06/2016|
+Hangzhou Science and Technology Bureau|
 Developed a decision support system based on a big data driven simulation model by combining cellular signaling data, remote microwave sensors and Automatic Vehicle Identification (AVI) data. 
-5.	Traffic network simulation modeling of Qingdao.	03/2014-07/2014
-Traffic Police Detachment of Qingdao Public Security Bureau
+5|Traffic network simulation modeling of Qingdao.	|03/2014-07/2014|
+Traffic Police Detachment of Qingdao Public Security Bureau|
 Used Vissim for Traffic network simulation modeling of Qingdao, including traffic signalized and un-signalized intersections, bus lines and virtual traffic detectors.
