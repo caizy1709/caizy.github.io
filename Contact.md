@@ -15,4 +15,4 @@ Wechat:    caizy1709
 
 Github:    [https://github.com/caizy1709](https://github.com/caizy1709)
 
-![QR code](/contact.png "contact")
+![QR code](/contact.png "contact QR code")
