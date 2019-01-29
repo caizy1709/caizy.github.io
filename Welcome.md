@@ -7,14 +7,13 @@ permalink: /Welcome/
 <img width="250" height="250" src="/images/IMG.JPG"/>
 
 ## Zhengyi Cai | 蔡正义
-##### Ph.D Candidate, Transportation Engineering
-##### [Trffic Control Research Lab](http://tcrl.zju.edu.cn/), College of Civil Engineering and Architecture
+##### Postdoctoral fellow in Intelligente Transportation Systems, Zhejiang University
+##### [Institute of Intelligente Transportation Systems](http://iits.zju.edu.cn/), College of Civil Engineering and Architecture
 ##### [Zhejiang University](http://www.zju.edu.cn/)
 
 E-mail: caizhengyi@zju.edu.cn 
 
-I'm a PhD candidate studying  Transportation Engineering in the College of Civil Engineering and Architecture at Zhejiang University, advised by Professor Dianhai Wang. My research interests are Large-scale Traffic Performance Evaluation, big data and Traffic Simulation. 
-Prior to my PhD studies, I received the Bachelor of Engineering degree (2013) in transportation Engineering from Jilin University, advised by Professor Xianmin Song.
+Dr. Zhengyi Cai is a postdoctoral research fellow at the Institute of Intelligent Transportation Systems (IITS), College of Civil Engineering and Architecture, Zhejiang University, Hangzhou, China. His primary research areas are traffic control, transportation big data analytics. He received the Ph.D. degrees from the Zhejiang University in 2018.
 
 ## Education
 
