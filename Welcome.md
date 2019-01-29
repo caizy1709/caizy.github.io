@@ -4,7 +4,7 @@ title: about
 permalink: /Welcome/
 ---
 
-<img width="250" height="250" src="/images/1.JPG"/>
+<img width="250" height="250" src="/images/photo.JPG"/>
 
 ## Zhengyi Cai | 蔡正义
 ##### Postdoctoral fellow in Intelligente Transportation Systems, Zhejiang University
