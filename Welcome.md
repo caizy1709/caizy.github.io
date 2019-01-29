@@ -17,11 +17,11 @@ Dr. Zhengyi Cai is a postdoctoral research fellow at the Institute of Intelligen
 
 ## Education
 
-##### Zhejiang University
+##### [Zhejiang University](http://www.zju.edu.cn/)
 
-&emsp;&emsp;**·**&emsp;Ph.D student in Transportation Engineering.Septemper 2013 - Present
+&emsp;&emsp;**·**&emsp;Ph.D. in Transportation Engineering. Septemper 2013 - 2018
 
-&emsp;&emsp;**·**&emsp;Concentration on traffic performance evalution and big data
+&emsp;&emsp;**·**&emsp;Concentration on Analysis and modeling of urban mobility based on big data
 ##### [Jilin University](http://www.jlu.edu.cn/)
 &emsp;&emsp;**·**&emsp;Bachelor of Engineering. Transportation Engineering.  September 2009 - July 2013
 
